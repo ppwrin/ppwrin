@@ -9,7 +9,7 @@ Seeking a new career path as a IT Tester that allows me to show my ability to le
 📧 paphawarin.tw@gmail.com
 📞 081-614-5971
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ppwrin&label=Profile%20views&color=0e75b6&style=flat" alt="ppwrin" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
