@@ -1,4 +1,4 @@
-![image](https://ibb.co/4pq1BXJ.jpg)
+![image](https://imgur.com/a/Z3wD3rb.jpg)
 
 ### hello world!! Welcome to my Github profile.
 You can call me Toey.👌🏼
