@@ -7,7 +7,7 @@ Seeking a new career path as a IT Tester that allows me to show my ability to le
 
 ### Contact me
 📧 paphawarin.tw@gmail.com
-<h3 align="center">A passionate frontend developer from India</h3>
+📞 081-614-5971
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppwrin&label=Profile%20views&color=0e75b6&style=flat" alt="ppwrin" /> </p>
 
